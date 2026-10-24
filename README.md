@@ -1,28 +1,39 @@
 # Desk Drawer Downloads
 
-Official Windows downloads for Desk Drawer, developed and copyrighted by
-hollo-hub. Desk Drawer is proprietary software; this repository distributes
-release installers only and does not publish the application source code.
+Official Windows installers published by hollo-hub. Application source code
+is kept in the private [`Desk_drawer`](https://github.com/hollo-hub/Desk_drawer)
+repository; this public repository contains release notes and downloadable
+installers only.
 
-## Project status
+## Latest: Desk Drawer Study 2.0.0
 
-Desk Drawer is an early prototype. Version 0.1.0 is an initial release, not a
-finished product; features and behavior may change as the app is refined.
-Future versions are expected to bring improvements, so check the release notes
-for updates with each release.
+[Download the Windows installer](https://github.com/hollo-hub/Desk_drawer-downloads/releases/tag/v2.0.0)
+(`Desk Drawer Study_2.0.0_x64-setup.exe`).
 
-## Download and install
+Desk Drawer Study is a separate, local-first study workspace. This release
+adds:
 
-1. Open [Releases](https://github.com/hollo-hub/Desk_drawer-downloads/releases).
-2. Download the latest `desk-drawer_*_x64-setup.exe` installer.
-3. Run the installer and follow the Windows prompts.
+- A clean course desk and interactive first-run guide.
+- An animated pixel ghost buddy with rotating encouragement.
+- A zero-start stopwatch, custom countdowns, and a fading focus halo.
+- Searchable Markdown notes, course tasks, grouped resources, session history,
+  and weekly study stats.
+- Appearance, notification, sound, and workspace-component controls.
+- Quiet autosave feedback, with errors still shown clearly.
 
-The MSI installer may also be provided as an alternative. Review the release
-notes and [third-party notices](./THIRD_PARTY_NOTICES.md) before installing.
+See the [full v2.0.0 release notes](./RELEASE_NOTES_v2.0.0.md) and the
+[installer and file details](https://github.com/hollo-hub/Desk_drawer-downloads/releases/tag/v2.0.0).
+
+## Install
+
+1. Download the `.exe` installer from the release link above.
+2. Run it on Windows and follow the installer prompts.
+
+Desk Drawer Study keeps study data on the device. It is a separate app from the
+main Desk Drawer desktop companion and does not share their settings or data.
 
 ## License and notices
 
-Desk Drawer is all rights reserved by hollo-hub. See [LICENSE](./LICENSE) for
-the proprietary terms. Third-party components and bundled assets retain their
-own licenses; see [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) and the
-included Pixelify Sans license file.
+Desk Drawer Study is proprietary software, copyright © 2026 hollo-hub. Third
+party components and bundled assets retain their own licenses; consult the
+license included with bundled assets before redistribution.
