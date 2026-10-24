@@ -35,7 +35,7 @@ separate Windows app alongside the main Desk Drawer desktop companion.
 
 ## Install
 
-Download `Desk Drawer Study_2.0.0_x64-setup.exe` from this release and run it
+Download `Desk.Drawer.Study_2.0.0_x64-setup.exe` from this release and run it
 on Windows. The app stores courses, notes, and tasks locally. No account or
 cloud service is required.
 

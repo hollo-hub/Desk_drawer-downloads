@@ -7,8 +7,8 @@ installers only.
 
 ## Latest: Desk Drawer Study 2.0.0
 
-[Download the Windows installer](https://github.com/hollo-hub/Desk_drawer-downloads/releases/tag/v2.0.0)
-(`Desk Drawer Study_2.0.0_x64-setup.exe`).
+[Download the Windows installer](https://github.com/hollo-hub/Desk_drawer-downloads/releases/download/v2.0.0/Desk.Drawer.Study_2.0.0_x64-setup.exe)
+(`Desk.Drawer.Study_2.0.0_x64-setup.exe`).
 
 Desk Drawer Study is a separate, local-first study workspace. This release
 adds:
